@@ -32,7 +32,7 @@ require (
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/ktrysmt/go-bitbucket v0.6.4
-	github.com/lib/pq v1.10.0
+	github.com/lib/pq v1.10.4
 	github.com/markbates/pkger v0.15.1
 	github.com/mattn/go-sqlite3 v1.14.6
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
