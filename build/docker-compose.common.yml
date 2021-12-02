@@ -97,7 +97,7 @@ services:
       transport.host: "127.0.0.1"
       ES_JAVA_OPTS: "-Xms512m -Xmx512m"
   dejavu:
-    image: "appbaseio/dejavu:3.4.2"
+    image: "appbaseio/dejavu:3.5.1"
     networks:
       - mm-test
   keycloak:
