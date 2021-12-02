@@ -10,7 +10,7 @@ require (
 	github.com/aws/aws-sdk-go v1.17.7
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.5.4 // indirect
 	github.com/cenkalti/backoff/v4 v4.0.2
-	github.com/cockroachdb/cockroach-go/v2 v2.1.1
+	github.com/cockroachdb/cockroach-go/v2 v2.2.4
 	github.com/cznic/mathutil v0.0.0-20180504122225-ca4c9f2c1369 // indirect
 	github.com/denisenkom/go-mssqldb v0.10.0
 	github.com/dhui/dktest v0.3.7
