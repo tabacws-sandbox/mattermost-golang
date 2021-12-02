@@ -9,7 +9,7 @@ require (
 	github.com/klauspost/compress v1.13.5
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
-	github.com/minio/md5-simd v1.1.0
+	github.com/minio/md5-simd v1.1.2
 	github.com/minio/sha256-simd v0.1.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
