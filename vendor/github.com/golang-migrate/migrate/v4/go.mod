@@ -22,7 +22,7 @@ require (
 	github.com/gobuffalo/here v0.6.0
 	github.com/gocql/gocql v0.0.0-20210515062232-b7ef815b4556
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
-	github.com/google/go-github/v35 v35.2.0
+	github.com/google/go-github/v35 v35.3.0
 	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/jackc/pgconn v1.8.0
