@@ -6,7 +6,7 @@ require (
 	code.sajari.com/docconv v1.2.0
 	github.com/HdrHistogram/hdrhistogram-go v0.9.0 // indirect
 	github.com/Masterminds/semver/v3 v3.1.1
-	github.com/Masterminds/squirrel v1.5.1
+	github.com/Masterminds/squirrel v1.5.2
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
 	github.com/advancedlogic/GoOse v0.0.0-20210820140952-9d5822d4a625 // indirect
 	github.com/andybalholm/brotli v1.0.4 // indirect
@@ -54,7 +54,7 @@ require (
 	github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20211105163654-bc68cce691ba
 	github.com/jmoiron/sqlx v1.3.4
-	github.com/jonboulle/clockwork v0.2.2
+	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/ledongthuc/pdf v0.0.0-20210621053716-e28cb8259002
@@ -87,14 +87,14 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.11 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/reflog/dateconstraints v0.2.1
 	github.com/rs/cors v1.8.0
 	github.com/rs/xid v1.3.0 // indirect
 	github.com/rudderlabs/analytics-go v3.3.1+incompatible
-	github.com/russellhaering/goxmldsig v1.1.1
+	github.com/russellhaering/goxmldsig v1.1.1 // indirect
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/segmentio/backo-go v0.0.0-20200129164019-23eae7c10bd3 // indirect
 	github.com/spf13/cobra v1.2.1
