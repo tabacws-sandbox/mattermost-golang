@@ -9,7 +9,7 @@ require (
 	github.com/fatih/set v0.2.1
 	github.com/gigawattio/window v0.0.0-20180317192513-0f5467e35573
 	github.com/go-resty/resty/v2 v2.0.0
-	github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0
+	github.com/jaytaylor/html2text v0.0.0-20211105163654-bc68cce691ba
 	github.com/mattn/go-runewidth v0.0.3 // indirect
 	github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84 // indirect
 	github.com/pkg/errors v0.8.1
