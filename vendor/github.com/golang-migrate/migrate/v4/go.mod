@@ -7,7 +7,7 @@ require (
 	github.com/ClickHouse/clickhouse-go v1.4.3
 	github.com/Microsoft/go-winio v0.5.0 // indirect
 	github.com/apache/arrow/go/arrow v0.0.0-20211013220434-5962184e7a30 // indirect
-	github.com/aws/aws-sdk-go v1.17.7
+	github.com/aws/aws-sdk-go v1.42.17
 	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.5.4 // indirect
 	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1
