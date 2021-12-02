@@ -24,6 +24,6 @@ require (
 	github.com/spf13/cobra v0.0.5
 	github.com/steveyen/gtreap v0.1.0
 	github.com/syndtr/goleveldb v1.0.0
-	go.etcd.io/bbolt v1.3.5
+	go.etcd.io/bbolt v1.3.6
 	golang.org/x/text v0.3.0
 )
