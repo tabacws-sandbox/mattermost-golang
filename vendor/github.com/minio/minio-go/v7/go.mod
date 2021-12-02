@@ -5,7 +5,7 @@ go 1.15
 require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/google/uuid v1.1.1
-	github.com/json-iterator/go v1.1.10
+	github.com/json-iterator/go v1.1.12
 	github.com/klauspost/compress v1.13.5
 	github.com/klauspost/cpuid v1.3.1 // indirect
 	github.com/kr/pretty v0.1.0 // indirect
@@ -13,7 +13,6 @@ require (
 	github.com/minio/sha256-simd v0.1.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/rs/xid v1.2.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/smartystreets/goconvey v1.6.4 // indirect
