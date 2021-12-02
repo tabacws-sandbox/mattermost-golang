@@ -36,7 +36,7 @@ require (
 	github.com/markbates/pkger v0.15.1
 	github.com/mattn/go-sqlite3 v1.14.6
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
-	github.com/mutecomm/go-sqlcipher/v4 v4.4.0
+	github.com/mutecomm/go-sqlcipher/v4 v4.4.2
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
 	github.com/neo4j/neo4j-go-driver v1.8.1-0.20200803113522-b626aa943eba
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
