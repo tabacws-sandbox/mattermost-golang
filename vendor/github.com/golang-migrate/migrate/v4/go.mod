@@ -33,7 +33,7 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/ktrysmt/go-bitbucket v0.6.4
 	github.com/lib/pq v1.10.0
-	github.com/markbates/pkger v0.15.1
+	github.com/markbates/pkger v0.17.1
 	github.com/mattn/go-sqlite3 v1.14.6
 	github.com/moby/term v0.0.0-20210619224110-3f7ff695adc6 // indirect
 	github.com/mutecomm/go-sqlcipher/v4 v4.4.0
