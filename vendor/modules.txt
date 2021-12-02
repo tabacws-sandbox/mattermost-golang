@@ -87,7 +87,7 @@ github.com/beorn7/perks/quantile
 # github.com/bits-and-blooms/bitset v1.2.1
 ## explicit
 github.com/bits-and-blooms/bitset
-# github.com/blang/semver v3.5.1+incompatible
+# github.com/blang/semver v3.8.0+incompatible
 ## explicit
 github.com/blang/semver
 # github.com/blevesearch/bleve/v2 v2.2.2
@@ -503,7 +503,6 @@ github.com/pmezard/go-difflib/difflib
 # github.com/prometheus/client_golang v1.11.0
 ## explicit
 github.com/prometheus/client_golang/prometheus
-github.com/prometheus/client_golang/prometheus/collectors
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promhttp
 # github.com/prometheus/client_model v0.2.0

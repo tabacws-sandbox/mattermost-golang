@@ -15,7 +15,7 @@ require (
 	github.com/avct/uasurfer v0.0.0-20191028135549-26b5daa857f1
 	github.com/aws/aws-sdk-go v1.42.11
 	github.com/bits-and-blooms/bitset v1.2.1 // indirect
-	github.com/blang/semver v3.5.1+incompatible
+	github.com/blang/semver v3.8.0+incompatible
 	github.com/blevesearch/bleve/v2 v2.2.2
 	github.com/cespare/xxhash/v2 v2.1.2
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
@@ -54,7 +54,7 @@ require (
 	github.com/hashicorp/yamux v0.0.0-20211028200310-0bc27b27de87 // indirect
 	github.com/jaytaylor/html2text v0.0.0-20211105163654-bc68cce691ba
 	github.com/jmoiron/sqlx v1.3.4
-	github.com/jonboulle/clockwork v0.2.2
+	github.com/jonboulle/clockwork v0.2.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.9 // indirect
 	github.com/ledongthuc/pdf v0.0.0-20210621053716-e28cb8259002
@@ -87,14 +87,14 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.11 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
-	github.com/prometheus/client_model v0.2.0
+	github.com/prometheus/client_model v0.2.0 // indirect
 	github.com/prometheus/common v0.32.1 // indirect
 	github.com/prometheus/procfs v0.7.3 // indirect
 	github.com/reflog/dateconstraints v0.2.1
 	github.com/rs/cors v1.8.0
 	github.com/rs/xid v1.3.0 // indirect
 	github.com/rudderlabs/analytics-go v3.3.1+incompatible
-	github.com/russellhaering/goxmldsig v1.1.1
+	github.com/russellhaering/goxmldsig v1.1.1 // indirect
 	github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd
 	github.com/segmentio/backo-go v0.0.0-20200129164019-23eae7c10bd3 // indirect
 	github.com/spf13/cobra v1.2.1
