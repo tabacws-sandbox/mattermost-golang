@@ -19,7 +19,7 @@ require (
 	github.com/fsouza/fake-gcs-server v1.17.0
 	github.com/gabriel-vasile/mimetype v1.4.0 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
-	github.com/gobuffalo/here v0.6.0
+	github.com/gobuffalo/here v0.6.5
 	github.com/gocql/gocql v0.0.0-20210515062232-b7ef815b4556
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/google/go-github/v35 v35.2.0
