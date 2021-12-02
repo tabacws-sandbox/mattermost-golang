@@ -8,7 +8,7 @@ require (
 	github.com/araddon/dateparse v0.0.0-20180729174819-cfd92a431d0e
 	github.com/fatih/set v0.2.1
 	github.com/gigawattio/window v0.0.0-20180317192513-0f5467e35573
-	github.com/go-resty/resty/v2 v2.0.0
+	github.com/go-resty/resty/v2 v2.7.0
 	github.com/jaytaylor/html2text v0.0.0-20180606194806-57d518f124b0
 	github.com/mattn/go-runewidth v0.0.3 // indirect
 	github.com/olekukonko/tablewriter v0.0.0-20180506121414-d4647c9c7a84 // indirect
@@ -16,7 +16,8 @@ require (
 	github.com/simplereach/timeutils v1.2.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/stretchr/testify v1.4.0 // indirect
-	golang.org/x/net v0.0.0-20190628185345-da137c7871d7
-	golang.org/x/text v0.3.0
+	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2 // indirect
+	golang.org/x/net v0.0.0-20211029224645-99673261e6eb
+	golang.org/x/text v0.3.6
 	gopkg.in/mgo.v2 v2.0.0-20190816093944-a6b53ec6cb22 // indirect
 )
