@@ -14,7 +14,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/stretchr/testify v1.2.2
-	github.com/viant/assertly v0.4.8
+	github.com/viant/assertly v0.9.0
 	github.com/viant/toolbox v0.24.0
 	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a // indirect
 	golang.org/x/net v0.0.0-20190313220215-9f648a60d977
