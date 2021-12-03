@@ -101,7 +101,7 @@ require (
 	github.com/splitio/go-client/v6 v6.1.0
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.0
-	github.com/throttled/throttled v2.2.5+incompatible
+	github.com/throttled/throttled v2.9.0+incompatible
 	github.com/tidwall/gjson v1.11.0 // indirect
 	github.com/tinylib/msgp v1.1.6
 	github.com/tylerb/graceful v1.2.15
