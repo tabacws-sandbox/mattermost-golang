@@ -45,7 +45,7 @@ require (
 	github.com/xanzy/go-gitlab v0.15.0
 	gitlab.com/nyarla/go-crypt v0.0.0-20160106005555-d9a5dc2b789b // indirect
 	go.mongodb.org/mongo-driver v1.7.0
-	go.uber.org/atomic v1.6.0
+	go.uber.org/atomic v1.9.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/net v0.0.0-20211013171255-e13a2654a71e // indirect
 	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c // indirect
