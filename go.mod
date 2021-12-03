@@ -64,7 +64,7 @@ require (
 	github.com/mattermost/gorp v1.6.2-0.20210714143452-8b50f5209a7f
 	github.com/mattermost/gosaml2 v0.3.3
 	github.com/mattermost/gziphandler v0.0.1
-	github.com/mattermost/ldap v0.0.0-20201202150706-ee0e6284187d
+	github.com/mattermost/ldap/v3 v3.0.4
 	github.com/mattermost/logr/v2 v2.0.15
 	github.com/mattermost/rsc v0.0.0-20160330161541-bbaefb05eaa0
 	github.com/mattn/go-colorable v0.1.12 // indirect
