@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	cloud.google.com/go v0.37.0 // indirect
-	github.com/buger/jsonparser v0.0.0-20181115193947-bf1c66bbce23
+	github.com/buger/jsonparser v1.1.1
 	github.com/go-errors/errors v1.0.1
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/json-iterator/go v1.1.6
