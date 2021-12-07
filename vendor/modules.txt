@@ -503,7 +503,6 @@ github.com/pmezard/go-difflib/difflib
 # github.com/prometheus/client_golang v1.11.0
 ## explicit
 github.com/prometheus/client_golang/prometheus
-github.com/prometheus/client_golang/prometheus/collectors
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promhttp
 # github.com/prometheus/client_model v0.2.0
@@ -643,7 +642,7 @@ github.com/tinylib/msgp/msgp
 # github.com/tylerb/graceful v1.2.15
 ## explicit
 github.com/tylerb/graceful
-# github.com/uber/jaeger-client-go v2.29.1+incompatible
+# github.com/uber/jaeger-client-go v2.30.0+incompatible
 ## explicit
 github.com/uber/jaeger-client-go
 github.com/uber/jaeger-client-go/config
