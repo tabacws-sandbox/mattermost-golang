@@ -2,7 +2,7 @@ module github.com/golang-migrate/migrate/v4
 
 require (
 	cloud.google.com/go/spanner v1.24.0
-	cloud.google.com/go/storage v1.10.0
+	cloud.google.com/go/storage v1.18.2
 	github.com/Azure/go-autorest/autorest/adal v0.9.14
 	github.com/ClickHouse/clickhouse-go v1.4.3
 	github.com/Microsoft/go-winio v0.5.0 // indirect
@@ -16,14 +16,13 @@ require (
 	github.com/dhui/dktest v0.3.7
 	github.com/docker/docker v20.10.9+incompatible
 	github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712 // indirect
-	github.com/fsouza/fake-gcs-server v1.17.0
+	github.com/fsouza/fake-gcs-server v1.31.1
 	github.com/gabriel-vasile/mimetype v1.4.0 // indirect
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gobuffalo/here v0.6.0
 	github.com/gocql/gocql v0.0.0-20210515062232-b7ef815b4556
 	github.com/gofrs/uuid v4.0.0+incompatible // indirect
 	github.com/google/go-github/v35 v35.2.0
-	github.com/gorilla/mux v1.7.4 // indirect
 	github.com/hashicorp/go-multierror v1.1.0
 	github.com/jackc/pgconn v1.8.0
 	github.com/jackc/pgerrcode v0.0.0-20201024163028-a0d42d470451
@@ -48,10 +47,9 @@ require (
 	go.uber.org/atomic v1.6.0
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
 	golang.org/x/net v0.0.0-20211013171255-e13a2654a71e // indirect
-	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c // indirect
 	golang.org/x/tools v0.1.5
-	google.golang.org/api v0.51.0
-	google.golang.org/genproto v0.0.0-20211013025323-ce878158c4d4
+	google.golang.org/api v0.62.0
+	google.golang.org/genproto v0.0.0-20211203200212-54befc351ae9
 	google.golang.org/grpc v1.41.0 // indirect
 	modernc.org/b v1.0.0 // indirect
 	modernc.org/db v1.0.0 // indirect
