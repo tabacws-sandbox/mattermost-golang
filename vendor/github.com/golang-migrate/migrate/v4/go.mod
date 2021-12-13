@@ -6,9 +6,7 @@ require (
 	github.com/Azure/go-autorest/autorest/adal v0.9.14
 	github.com/ClickHouse/clickhouse-go v1.4.3
 	github.com/Microsoft/go-winio v0.5.0 // indirect
-	github.com/apache/arrow/go/arrow v0.0.0-20211013220434-5962184e7a30 // indirect
 	github.com/aws/aws-sdk-go v1.17.7
-	github.com/aws/aws-sdk-go-v2/feature/s3/manager v1.5.4 // indirect
 	github.com/cenkalti/backoff/v4 v4.0.2
 	github.com/cockroachdb/cockroach-go/v2 v2.1.1
 	github.com/cznic/mathutil v0.0.0-20180504122225-ca4c9f2c1369 // indirect
@@ -40,15 +38,12 @@ require (
 	github.com/nakagami/firebirdsql v0.0.0-20190310045651-3c02a58cfed8
 	github.com/neo4j/neo4j-go-driver v1.8.1-0.20200803113522-b626aa943eba
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
-	github.com/snowflakedb/gosnowflake v1.6.3
+	github.com/snowflakedb/gosnowflake v1.6.5
 	github.com/stretchr/testify v1.7.0
 	github.com/xanzy/go-gitlab v0.15.0
 	gitlab.com/nyarla/go-crypt v0.0.0-20160106005555-d9a5dc2b789b // indirect
 	go.mongodb.org/mongo-driver v1.7.0
 	go.uber.org/atomic v1.6.0
-	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519 // indirect
-	golang.org/x/net v0.0.0-20211013171255-e13a2654a71e // indirect
-	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c // indirect
 	golang.org/x/tools v0.1.5
 	google.golang.org/api v0.51.0
 	google.golang.org/genproto v0.0.0-20211013025323-ce878158c4d4
