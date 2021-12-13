@@ -14,7 +14,7 @@ require (
 	github.com/cznic/mathutil v0.0.0-20180504122225-ca4c9f2c1369 // indirect
 	github.com/denisenkom/go-mssqldb v0.10.0
 	github.com/dhui/dktest v0.3.7
-	github.com/docker/docker v20.10.9+incompatible
+	github.com/docker/docker v20.10.12+incompatible
 	github.com/edsrzf/mmap-go v0.0.0-20170320065105-0bce6a688712 // indirect
 	github.com/fsouza/fake-gcs-server v1.17.0
 	github.com/gabriel-vasile/mimetype v1.4.0 // indirect
