@@ -18,12 +18,12 @@ require (
 	github.com/blevesearch/zapx/v14 v14.3.1
 	github.com/blevesearch/zapx/v15 v15.3.1
 	github.com/couchbase/moss v0.1.0
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/protobuf v1.5.2
 	github.com/kljensen/snowball v0.6.0
 	github.com/rcrowley/go-metrics v0.0.0-20190826022208-cac0b30c2563
-	github.com/spf13/cobra v0.0.5
+	github.com/spf13/cobra v1.3.0
 	github.com/steveyen/gtreap v0.1.0
 	github.com/syndtr/goleveldb v1.0.0
 	go.etcd.io/bbolt v1.3.5
-	golang.org/x/text v0.3.0
+	golang.org/x/text v0.3.7
 )
