@@ -101,7 +101,7 @@ services:
     networks:
       - mm-test
   keycloak:
-    image: "jboss/keycloak:10.0.2"
+    image: "jboss/keycloak:15.1.0"
     restart: always
     environment:
       KEYCLOAK_USER: mmuser
