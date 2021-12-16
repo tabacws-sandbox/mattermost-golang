@@ -23,6 +23,8 @@ github.com/blevesearch/vellum v1.0.7 h1:+vn8rfyCRHxKVRgDLeR0FAXej2+6mEb5Q15aQE/X
 github.com/blevesearch/vellum v1.0.7/go.mod h1:doBZpmRhwTsASB4QdUZANlJvqVAUdUyX0ZK7QJCTeBE=
 github.com/blevesearch/zapx/v11 v11.3.1 h1:X88o7rxOK4bTB2SSwvSWMc6dFhFtQoF3n06q5h/Vhps=
 github.com/blevesearch/zapx/v11 v11.3.1/go.mod h1:YzTfUm4kS3e8OmTXDHVV8OzC5MWPO/VPJZQgPNVb4Lc=
+github.com/blevesearch/zapx/v11 v11.3.2 h1:TDdcbaA0Yz3Y5zpTrpvyW1AeicqWTJL3g8D5g48RiHM=
+github.com/blevesearch/zapx/v11 v11.3.2/go.mod h1:YzTfUm4kS3e8OmTXDHVV8OzC5MWPO/VPJZQgPNVb4Lc=
 github.com/blevesearch/zapx/v12 v12.3.1 h1:SNG60aOBXQ64d3rPiUFuxWsyHTW6h9jKlBKSKMUdxdc=
 github.com/blevesearch/zapx/v12 v12.3.1/go.mod h1:RMl6lOZqF+sTxKvhQDJ5yK2LT3Mu7E2p/jGdjAaiRxs=
 github.com/blevesearch/zapx/v13 v13.3.1 h1:Aj5iQBXJ7xaGZLxwdueadC/s6vJ5/Jo3klKJfFDjpio=
