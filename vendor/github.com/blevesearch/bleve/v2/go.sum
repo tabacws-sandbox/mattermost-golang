@@ -25,6 +25,8 @@ github.com/blevesearch/zapx/v11 v11.3.1 h1:X88o7rxOK4bTB2SSwvSWMc6dFhFtQoF3n06q5
 github.com/blevesearch/zapx/v11 v11.3.1/go.mod h1:YzTfUm4kS3e8OmTXDHVV8OzC5MWPO/VPJZQgPNVb4Lc=
 github.com/blevesearch/zapx/v12 v12.3.1 h1:SNG60aOBXQ64d3rPiUFuxWsyHTW6h9jKlBKSKMUdxdc=
 github.com/blevesearch/zapx/v12 v12.3.1/go.mod h1:RMl6lOZqF+sTxKvhQDJ5yK2LT3Mu7E2p/jGdjAaiRxs=
+github.com/blevesearch/zapx/v12 v12.3.2 h1:XB09XMg/3ibeIJRCm2zjkaVwrtAuk6c55YRSmVlwUDk=
+github.com/blevesearch/zapx/v12 v12.3.2/go.mod h1:RMl6lOZqF+sTxKvhQDJ5yK2LT3Mu7E2p/jGdjAaiRxs=
 github.com/blevesearch/zapx/v13 v13.3.1 h1:Aj5iQBXJ7xaGZLxwdueadC/s6vJ5/Jo3klKJfFDjpio=
 github.com/blevesearch/zapx/v13 v13.3.1/go.mod h1:eppobNM35U4C22yDvTuxV9xPqo10pwfP/jugL4INWG4=
 github.com/blevesearch/zapx/v14 v14.3.1 h1:UyCe63mk9ZcEqgxyMS3Ab3ZC3lhDp1UJktvp31U5KA8=
