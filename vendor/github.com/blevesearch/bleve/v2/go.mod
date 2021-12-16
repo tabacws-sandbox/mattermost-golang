@@ -15,7 +15,7 @@ require (
 	github.com/blevesearch/zapx/v11 v11.3.1
 	github.com/blevesearch/zapx/v12 v12.3.1
 	github.com/blevesearch/zapx/v13 v13.3.1
-	github.com/blevesearch/zapx/v14 v14.3.1
+	github.com/blevesearch/zapx/v14 v14.3.2
 	github.com/blevesearch/zapx/v15 v15.3.1
 	github.com/couchbase/moss v0.1.0
 	github.com/golang/protobuf v1.3.2
