@@ -503,7 +503,6 @@ github.com/pmezard/go-difflib/difflib
 # github.com/prometheus/client_golang v1.11.0
 ## explicit
 github.com/prometheus/client_golang/prometheus
-github.com/prometheus/client_golang/prometheus/collectors
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promhttp
 # github.com/prometheus/client_model v0.2.0
@@ -535,7 +534,7 @@ github.com/rs/cors
 # github.com/rs/xid v1.3.0
 ## explicit
 github.com/rs/xid
-# github.com/rudderlabs/analytics-go v3.3.1+incompatible
+# github.com/rudderlabs/analytics-go v3.3.2+incompatible
 ## explicit
 github.com/rudderlabs/analytics-go
 # github.com/russellhaering/goxmldsig v1.1.1
