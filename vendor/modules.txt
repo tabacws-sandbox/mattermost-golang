@@ -202,7 +202,7 @@ github.com/francoispqt/gojay
 # github.com/fsnotify/fsnotify v1.5.1
 ## explicit
 github.com/fsnotify/fsnotify
-# github.com/getsentry/sentry-go v0.11.0
+# github.com/getsentry/sentry-go v0.12.0
 ## explicit
 github.com/getsentry/sentry-go
 github.com/getsentry/sentry-go/http
@@ -503,7 +503,6 @@ github.com/pmezard/go-difflib/difflib
 # github.com/prometheus/client_golang v1.11.0
 ## explicit
 github.com/prometheus/client_golang/prometheus
-github.com/prometheus/client_golang/prometheus/collectors
 github.com/prometheus/client_golang/prometheus/internal
 github.com/prometheus/client_golang/prometheus/promhttp
 # github.com/prometheus/client_model v0.2.0
