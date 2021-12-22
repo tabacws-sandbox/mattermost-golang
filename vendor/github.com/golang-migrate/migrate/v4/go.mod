@@ -31,7 +31,7 @@ require (
 	github.com/jackc/pgx/v4 v4.10.1
 	github.com/kardianos/osext v0.0.0-20190222173326-2bc1f35cddc0 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
-	github.com/ktrysmt/go-bitbucket v0.6.4
+	github.com/ktrysmt/go-bitbucket v0.9.34
 	github.com/lib/pq v1.10.0
 	github.com/markbates/pkger v0.15.1
 	github.com/mattn/go-sqlite3 v1.14.6
